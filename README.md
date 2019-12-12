@@ -1,5 +1,5 @@
 # sdk
-## Bora.
+## Bora Dalhe.
 ## Tutorial
 * Importante que frontend e esdk deve estar no mesmo nível.
 * Clonar o repossitório do jeliel em que ele colocou tudo.
